@@ -8,5 +8,7 @@ public class HappyAgain {
         for(int i = str.length()-1; i >= 0; i--){
             System.out.print(str.charAt(i));
         }
+        // adding more lines to the existing code
+        System.out.println("Done");
     }
 }
