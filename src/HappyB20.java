@@ -6,6 +6,6 @@ public class HappyB20 {
         String lastName = "Habtu";
         String str = "Happy B20";
         System.out.println(firstName+" "+lastName+", "+str);
-
+        System.out.println("We love Cybertek");
     }
 }
